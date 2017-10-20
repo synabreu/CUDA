@@ -1,0 +1,6 @@
+﻿  HelloCuda2.vcxproj -> Y:\Developer\CUDA\HelloCuda2\x64\Debug\HelloCuda2.exe
+  HelloCuda2.vcxproj -> Y:\Developer\CUDA\HelloCuda2\x64\Debug\HelloCuda2.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "Y:\Developer\CUDA\HelloCuda2\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2 file(s) copied.
