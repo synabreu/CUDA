@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloCuda", "HelloCuda\HelloCuda.vcxproj", "{B52F1C28-268D-465C-89C7-A3C85848C5E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloCuda2", "..\HelloCuda2\HelloCuda2\HelloCuda2.vcxproj", "{80F03E19-64E2-45F9-BB01-76CE3866A574}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorTwoIntegers", "..\VectorTwoIntegers\VectorTwoIntegers.vcxproj", "{C845BE95-4C5B-421E-82AA-B180B51E5D3B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAddTwoArray", "..\VectorAddTwoArray\VectorAddTwoArray\VectorAddTwoArray.vcxproj", "{430B602A-EC5D-4F34-A1F2-D4CD1F0B2525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52F1C28-268D-465C-89C7-A3C85848C5E6}.Debug|x64.ActiveCfg = Debug|x64
+		{B52F1C28-268D-465C-89C7-A3C85848C5E6}.Debug|x64.Build.0 = Debug|x64
+		{B52F1C28-268D-465C-89C7-A3C85848C5E6}.Release|x64.ActiveCfg = Release|x64
+		{B52F1C28-268D-465C-89C7-A3C85848C5E6}.Release|x64.Build.0 = Release|x64
+		{80F03E19-64E2-45F9-BB01-76CE3866A574}.Debug|x64.ActiveCfg = Debug|x64
+		{80F03E19-64E2-45F9-BB01-76CE3866A574}.Debug|x64.Build.0 = Debug|x64
+		{80F03E19-64E2-45F9-BB01-76CE3866A574}.Release|x64.ActiveCfg = Release|x64
+		{80F03E19-64E2-45F9-BB01-76CE3866A574}.Release|x64.Build.0 = Release|x64
+		{C845BE95-4C5B-421E-82AA-B180B51E5D3B}.Debug|x64.ActiveCfg = Debug|x64
+		{C845BE95-4C5B-421E-82AA-B180B51E5D3B}.Debug|x64.Build.0 = Debug|x64
+		{C845BE95-4C5B-421E-82AA-B180B51E5D3B}.Release|x64.ActiveCfg = Release|x64
+		{C845BE95-4C5B-421E-82AA-B180B51E5D3B}.Release|x64.Build.0 = Release|x64
+		{430B602A-EC5D-4F34-A1F2-D4CD1F0B2525}.Debug|x64.ActiveCfg = Debug|x64
+		{430B602A-EC5D-4F34-A1F2-D4CD1F0B2525}.Debug|x64.Build.0 = Debug|x64
+		{430B602A-EC5D-4F34-A1F2-D4CD1F0B2525}.Release|x64.ActiveCfg = Release|x64
+		{430B602A-EC5D-4F34-A1F2-D4CD1F0B2525}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
