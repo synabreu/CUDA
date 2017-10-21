@@ -1,4 +1,4 @@
-# CUDA
+# Open Source Applications for CUDA C/C++ 
 In this open sources, I can show you several examples using CUDA. Simply put, What is CUDA? CUDA is an acronym for Compute Unified Device Architecture, created by NVIDIA.
 
 CUDA is a parallel computing platform and application programming interface (API) model created by Nvidia. It allows software developers and software engineers to use a CUDA-enabled graphics processing unit (GPU) for general purpose processing – an approach termed GPGPU (General-Purpose computing on Graphics Processing Units). The CUDA platform is a software layer that gives direct access to the GPU's virtual instruction set and parallel computational elements, for the execution of compute kernels.
@@ -27,6 +27,18 @@ https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
 https://developer.nvidia.com/nsight-visual-studio-edition-downloads
 
 # 2. Setup CUDA Toolkit 9.0 on the Mac
+
+I will summarize it next time because it doesn't work and the conflict of Eclipse version. 
+
+# 3. The Directory List of Apps Examples 
+
+1) HelloCuda : An "Hello, Cuda" app using Standard C/C++
+2) HelloCuda2 : An "Hello, Cuda" app converting from Standard C/C++ to CUDA C/C++ 
+3) VectorTwoIntegers : This app is using pointers for the variables on the device code. you can show how to code the device code (addTwoIntegers) and host code (main), as wel as how to use cudaMalloc, cudaMemcpy, cudaFree. 
+4) VectorAddByBlock: Unlike VectorTwoIntegers, this app is using block on the device code. The meaning of block in CUDA is each parallel invocation of device's function. 
+
+# License 
+Copyright (c) MIT License
 
 
 
